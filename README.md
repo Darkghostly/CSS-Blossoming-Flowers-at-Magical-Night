@@ -48,7 +48,4 @@ cd CSS-Blossoming-Flowers-at-Magical-Night
 
 Este projeto está licenciado sob a licença **MIT** — fique à vontade para usar, estudar, modificar e distribuir. ✨
 
-## 🫡 Autor
-
-Desenvolvido por **Gustavo — Darkghostly** 🇧🇷  
-🔗 [GitHub](https://github.com/Darkghostly) | 🔗 [LinkedIn](https://www.linkedin.com/in/seu-username)
+🔗 [GitHub](https://github.com/Darkghostly) | 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-bueno-da-silva-797292324/)
