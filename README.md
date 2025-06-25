@@ -11,6 +11,7 @@ Um projeto visual encantador que traz a beleza das flores desabrochando sob uma 
 
 - ✅ HTML5
 - ✅ CSS3 (Animações e Keyframes)
+- ✅ JavaScript
 - ❌ Nenhuma biblioteca ou framework
 
 ## 🎯 Funcionalidades
