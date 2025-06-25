@@ -7,8 +7,6 @@ Um projeto visual encantador que traz a beleza das flores desabrochando sob uma 
 
 🔗 [Acesse aqui a demonstração online](https://darkghostly.github.io/CSS-Blossoming-Flowers-at-Magical-Night/)
 
-![Preview](https://raw.githubusercontent.com/Darkghostly/CSS-Blossoming-Flowers-at-Magical-Night/main/preview.png)
-
 ## 🚀 Tecnologias Utilizadas
 
 - ✅ HTML5
